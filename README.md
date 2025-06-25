@@ -28,7 +28,7 @@ A lightweight, flexible auto-reconnection library for embedded systems and IoT d
 ### PlatformIO
 ```ini
 lib_deps = 
-    https://github.com/yourusername/AutoLink.git
+    https://github.com/hassaanmaqsood/AutoLink.git
 ```
 
 ### Manual Installation
